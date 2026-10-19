@@ -1,5 +1,13 @@
 
 # Praktikum 5 — JavaScript Dasar
+Nama : Tiyo Endriyana 
+
+
+NIM  : 312510221
+
+
+
+Matkul: Pemrograman Web
 
 ## Tujuan
 Memahami dasar JavaScript dan manipulasi elemen HTML.
